@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                                       # 💫 About Me:
 Hi there! 👋 I’m Ashish Raj, a passionate DevOps Engineer who loves building reliable, scalable, and automated systems. I enjoy working at the intersection of development, infrastructure, and operations, turning ideas into production-ready solutions.<br><br>🚀 Focused on CI/CD pipelines, cloud infrastructure, and automation<br><br>☁️ Experience with AWS, Docker, Kubernetes, Linux<br><br>🔧 Strong in Git, GitHub Actions, Jenkins, Terraform<br><br>📈 Interested in SRE practices, monitoring, and system reliability<br><br>🧠 Always learning new tools and improving system performance<br><br>🤝 Open to collaboration on DevOps, Cloud, and Open-Source projects
 
 
